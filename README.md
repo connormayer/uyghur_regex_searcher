@@ -1,4 +1,6 @@
-# Uyghur regex searcher
+[![DOI](https://zenodo.org/badge/569955412.svg)](https://zenodo.org/badge/latestdoi/569955412)
+
+# Three searchable online Uyghur text corpora
 
 This repository contains corpora created from three Uyghur websites:
 * [Uyghur Akademiyisi](https://www.akademiye.org/ug/) (Uyghur Academy): A legal research organization that publishes articles on Uyghur culture and politics. Retrieved July 2022.
@@ -13,3 +15,4 @@ If you find this repository useful, please cite the following items:
 
 > Mayer, C. (2021). Issues in Uyghur backness harmony: Corpus, experimental, and computational studies (Unpublished doctoral dissertation). University of California, Los Angeles. 
 
+> Mayer, C., Major, T. (2023). Three searchable online Uyghur text corpora (Version 0.1.0) [Computer software]. https://doi.org/10.5281/zenodo.8221677
